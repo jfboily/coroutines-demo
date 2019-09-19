@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="com.fasterxml.jackson.module:jackson-module-kotlin:2.8.6" type="repository">
+    <properties maven-id="com.fasterxml.jackson.module:jackson-module-kotlin:2.8.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-kotlin/2.8.6/jackson-module-kotlin-2.8.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.8.6/jackson-databind-2.8.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.8.6/jackson-core-2.8.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-reflect/1.0.5/kotlin-reflect-1.0.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.0.5/kotlin-stdlib-1.0.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-runtime/1.0.5/kotlin-runtime-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
